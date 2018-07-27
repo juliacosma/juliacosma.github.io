@@ -70,7 +70,7 @@ p
     letter-spacing: 8;
 }
 
-.socials a
+.socials
 {
     color: white;
     text-decoration: none;
@@ -84,4 +84,18 @@ p
     height: 400px;
     margin-top: 50;
     
+}
+
+.parallax {
+    /* The image used */
+    background-image: url("juliacosma.github.io/resume0/css/bins.JPG");
+
+    /* Set a specific height */
+    min-height: 500px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
