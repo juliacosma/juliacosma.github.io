@@ -1,0 +1,87 @@
+
+
+html 
+{ 
+    background: url("bins.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;   
+    font-family: 'Helvetica Neue' , sans-serif;
+}
+
+
+
+
+.prof-box
+{
+    width: 400px;
+    height: 400px;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    color: white;
+    margin: 0 auto;
+    margin-top: 140px;
+    border-radius: 5%;
+    text-align: center;
+    letter-spacing: 1;
+}
+
+.prof-pic
+{
+    border-radius: 50%;
+    height: 200px;
+    width: 
+}
+
+h1
+{
+    font-weight: 1;
+    letter-spacing:3;
+    font-size: 40px;
+    line-height: 1;
+}
+
+.line
+{
+    width: 300px;
+    border-top: 1px solid white; 
+    margin: 0 auto;
+}
+
+h5
+{
+    font-weight: 100;
+    letter-spacing: 2;
+    line-height: 1;
+}
+
+p
+{
+    font: html; 
+    font-family:courier;
+    font-size: 12;
+    
+}
+
+.socials 
+{
+    font-size: 30px;
+    letter-spacing: 8;
+}
+
+.socials a
+{
+    color: white;
+    text-decoration: none;
+}
+
+
+.under-header
+{
+    background-color: white;
+    font: 'Helvetica Neue', sans-serif;
+    height: 400px;
+    margin-top: 50;
+    
+}
