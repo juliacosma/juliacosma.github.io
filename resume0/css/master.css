@@ -86,6 +86,9 @@ p
     
 }
 
+    
+.background
+    {
     /* The image used */
     background-image: url("juliacosma.github.io/resume0/css/bins.JPG");
 
@@ -97,3 +100,4 @@ p
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    }
